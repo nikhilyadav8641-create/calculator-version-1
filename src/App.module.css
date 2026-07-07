@@ -1,0 +1,13 @@
+.calculator{
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 5px;
+}
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+  height: 100vh;
+  background-color: #f5f5f5;
+}
