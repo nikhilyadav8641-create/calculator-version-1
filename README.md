@@ -65,19 +65,8 @@ No additional installation or dependencies are required.
 
 > Add a screenshot of your calculator here.
 
-Example:
+![Uploading Screenshot 2026-07-08 at 8.12.35 PM.png…]()
 
-```
-calculator-version-1/
-└── screenshots/
-    └── calculator.png
-```
-
-Then include:
-
-```md
-![Calculator Screenshot](screenshots/calculator.png)
-```
 
 ## 🎯 Learning Objectives
 
